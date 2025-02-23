@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Alchemy, Network } from "alchemy-sdk";
 
 const config = {
-  apiKey: "Fiw12RoQoYaduO5LUrZEGKEf2WJgjE4S", 
+  apiKey: "your-secret-api-key", 
   network: Network.ETH_MAINNET, 
 };
 
